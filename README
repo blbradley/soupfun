@@ -1,0 +1,3 @@
+hnpollsoup.py
+
+returns a dict of poll data from a YCombinator HackerNews poll page
